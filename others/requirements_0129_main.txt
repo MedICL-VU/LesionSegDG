@@ -1,0 +1,6 @@
+dominate==2.6.0
+jsonpatch==1.28
+nibabel==3.0.2
+scikit-image==0.16.2
+statsmodels==0.10.2
+visdom==0.1.8.9

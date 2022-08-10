@@ -1,0 +1,11 @@
+{
+  "1": {
+    "path": "/content/isbi_dataset",
+    "modalities": ["t1", "flair", "t2", "pd"],
+    "masks": ["mask1", "mask2"],
+    "suffix": "nii",
+    "axis_to_take": [2, 0, 1],
+    "train": true,
+    "domain": "source"
+  }
+}
